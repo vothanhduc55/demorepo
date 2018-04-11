@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\adonet\adonet2\bin\Debug\adonet2.exe.config
+C:\Users\Administrator\source\repos\adonet\adonet2\bin\Debug\adonet2.exe
+C:\Users\Administrator\source\repos\adonet\adonet2\bin\Debug\adonet2.pdb
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.Form1.resources
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.exe
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.pdb
+C:\Users\Administrator\source\repos\adonet\adonet2\bin\Debug\QLNS.mdf
+C:\Users\Administrator\source\repos\adonet\adonet2\bin\Debug\QLNS_log.ldf
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\adonet\adonet2\obj\Debug\adonet2.FrmThemPhong.resources

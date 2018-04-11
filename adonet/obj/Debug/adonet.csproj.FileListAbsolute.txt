@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\adonet\adonet\bin\Debug\Database1.mdf
+C:\Users\Administrator\source\repos\adonet\adonet\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\source\repos\adonet\adonet\bin\Debug\adonet.exe.config
+C:\Users\Administrator\source\repos\adonet\adonet\bin\Debug\adonet.exe
+C:\Users\Administrator\source\repos\adonet\adonet\bin\Debug\adonet.pdb
+C:\Users\Administrator\source\repos\adonet\adonet\obj\Debug\adonet.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\adonet\adonet\obj\Debug\adonet.Form1.resources
+C:\Users\Administrator\source\repos\adonet\adonet\obj\Debug\adonet.Properties.Resources.resources
+C:\Users\Administrator\source\repos\adonet\adonet\obj\Debug\adonet.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\adonet\adonet\obj\Debug\adonet.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\adonet\adonet\obj\Debug\adonet.exe
+C:\Users\Administrator\source\repos\adonet\adonet\obj\Debug\adonet.pdb
